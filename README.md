@@ -46,7 +46,6 @@
 2022 粤港澳大湾区（黄埔）国际算法算例大赛-工业品表面缺陷检测技术（深科技）Rank10 (SOLO)
 2021 高分辨率遥感影像耕地地块提取挑战赛 排行榜 Rank 5/486 答辩rank10 (SOLO)
 2023 Kaggke RSNA Screening Mammography Breast Cancer Detection 银牌 (46/1687)
-2023 “炬火种·燃新薪”厦门火炬高新区高校专业新星挑战大赛 睿云联赛道-RTSP视频流存储的实现 一等奖
 <!--2023 Kaggke Stable Diffusion - Image to Prompts 银牌-->
 </pre></details>
 
@@ -88,6 +87,7 @@
 2022 山东省第四届数据应用创新创业大赛 数用高校创新创业暨大学生创新创业网络大赛 Rank17 三等奖
 2023 International Conference on Neural Computing for Advanced Applications Chinese Diabetes Question Classification Evaluation Task Rank7
 2023 数字医疗算法应用创新大赛 生物共融与数字疗法应用赛道 Rank8 优胜奖
+2023 “炬火种·燃新薪”厦门火炬高新区高校专业新星挑战大赛 睿云联赛道-RTSP视频流存储的实现 一等奖
 </pre></details> 
 
 
