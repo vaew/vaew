@@ -92,16 +92,17 @@
 </pre></details> 
 
 
-### <font face="Cambria Math" color=black size=6>Part-time Jobs</font>
+### <font face="Cambria Math" color=black size=6>Titles&Part-time Jobs</font>
 
 <details>
 <summary>Expand to View</summary>
 <pre>
 * <font face="Cambria Math" color=black size=4>Zlab Member</font>
+* <font face="Cambria Math" color=black size=4>Kaggle Expert</font>
 * <font face="Cambria Math" color=black size=4>Chamd5 AI Lab Leader</font>
-* <font face="Cambria Math" color=black size=4>PaddlePaddle Developers Experts</font>
-* <font face="Cambria Math" color=black size=4>FOCUS Team Visual Group Mentor</font>
 * <font face="Cambria Math" color=black size=4>China Mobile Star Partner</font>
+* <font face="Cambria Math" color=black size=4>FOCUS Team Visual Group Mentor</font>
+* <font face="Cambria Math" color=black size=4>PaddlePaddle Developers Experts</font>
 * <font face="Cambria Math" color=black size=4>China Mobile Most Valuable Professional</font>
 * <font face="Cambria Math" color=black size=4>United Nations #TEACH GIRLS CODING  Volunteer Mentor</font>
 </pre></details>
