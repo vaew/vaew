@@ -31,9 +31,9 @@
 <details>
 <summary>Expand to View</summary>
 <pre>
+2023 “天马杯”全国高校科技创新大赛--3D数字人驱动赛道 Rank1 (SOLO)
 2022 “移动云杯”算力网络应用创新大赛（行业赛道）工业边缘云应用-叉车周界行人检测专题 Rank1 
 2022 天池BMW第二届黑客马拉松——工业质检赛道 Rank2
-<!--2022 “天马杯”全国高校科技创新大赛--3D数字人驱动赛道 Rank2-->
 2022 CCF-BDCI 基于TPU平台实现人群密度估计 Rank3 (SOLO)
 2022 字节跳动安全AI挑战赛————赛道一：基于文本和多模态数据的风险识别（复赛：Emoji复杂文本识别）Rank4 (SOLO)
 2022 DIGIX全球校园AI算法精英大赛（车道渲染数据质检）Rank5
@@ -88,7 +88,6 @@
 2022 山东省第四届数据应用创新创业大赛 数用高校创新创业暨大学生创新创业网络大赛 Rank17 三等奖
 2023 International Conference on Neural Computing for Advanced Applications Chinese Diabetes Question Classification Evaluation Task Rank7
 2023 数字医疗算法应用创新大赛 生物共融与数字疗法应用赛道 Rank8 优胜奖
-2023 “炬火种·燃新薪”厦门火炬高新区高校专业新星挑战大赛 睿云联赛道-RTSP视频流存储的实现 一等奖
 </pre></details> 
 
 
