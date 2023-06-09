@@ -40,7 +40,7 @@
 2021 第五届"中科星图杯"国际高分遥感图像解译大赛-面向海洋一号可见光图像中海冰目标监测 Rank6
 2022 粤港澳大湾区（黄埔）国际算法算例大赛-路侧3D感知算法（百度&清华大学智能产业研究院）Rank6
 2019 CSDN×易观算法大赛——PV,UV流量预测 Rank6
-2023 CVPR 2023 1st foundation model challenge-Track1 Rank6/1006
+2023 CVPR 2023 1st foundation model challenge-Track1 Rank5/1006
 2022 “域见杯”医检人工智能开发者大赛 Rank7/903
 2022 “移动云杯”算力网络应用创新大赛（行业赛道）工业边缘云应用-工业旋转机械设备健康状态检测专题 Rank8 (SOLO)
 2020 链想家计算科技大赛 ：同名消歧 赛道一 Rank9
