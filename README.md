@@ -104,7 +104,7 @@
 * <font face="Cambria Math" color=black size=4>FOCUS Team Visual Group Mentor</font>
 * <font face="Cambria Math" color=black size=4>PaddlePaddle Developers Experts</font>
 * <font face="Cambria Math" color=black size=4>China Mobile Most Valuable Professional</font>
-* <font face="Cambria Math" color=black size=4>United Nations #TEACH GIRLS CODING  Volunteer Mentor</font>
+* <font face="Cambria Math" color=black size=4>United Nations #TEACH GIRLS CODING Volunteer Mentor</font>
 </pre></details>
 
 
