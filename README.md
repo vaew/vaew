@@ -89,6 +89,7 @@
 2022 DataCon大数据安全分析竞赛 网络流量分析赛道 Rank22 (挑战一：挖矿流量检测挑战 100/100分 挑战二：智能蜜罐环境构建 15.45/100分）
 2022 山东省第四届数据应用创新创业大赛 数用高校创新创业暨大学生创新创业网络大赛 Rank17 三等奖
 2023 International Conference on Neural Computing for Advanced Applications Chinese Diabetes Question Classification Evaluation Task Rank7
+2023 WAIC黑客马拉松————工业赛道“AI引领未来工厂”工业人工智能竞赛 蓝鼎奖
 </pre></details> 
 
 
