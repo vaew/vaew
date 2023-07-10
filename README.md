@@ -90,6 +90,7 @@
 2022 山东省第四届数据应用创新创业大赛 数用高校创新创业暨大学生创新创业网络大赛 Rank17 三等奖
 2023 International Conference on Neural Computing for Advanced Applications Chinese Diabetes Question Classification Evaluation Task Rank7
 2023 WAIC黑客马拉松————工业赛道“AI引领未来工厂”工业人工智能竞赛 蓝鼎奖
+2023 天池魔搭社区Create@AI黑客马拉松 人气队伍奖
 </pre></details> 
 
 
