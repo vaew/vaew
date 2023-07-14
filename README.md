@@ -44,7 +44,7 @@
 2022 “域见杯”医检人工智能开发者大赛 Rank7/903
 2022 “移动云杯”算力网络应用创新大赛（行业赛道）工业边缘云应用-工业旋转机械设备健康状态检测专题 Rank8 (SOLO)
 2020 链想家计算科技大赛 ：同名消歧 赛道一 Rank9
-2022 粤港澳大湾区（黄埔）国际算法算例大赛-工业品表面缺陷检测技术（深科技）Rank10 (SOLO)
+2022 粤港澳大湾区（黄埔）国际算法算例大赛-工业品表面缺陷检测技术（深科技）Rank10
 2021 高分辨率遥感影像耕地地块提取挑战赛 排行榜 Rank 5/486 答辩rank10 (SOLO)
 2023 Kaggke RSNA Screening Mammography Breast Cancer Detection 银牌 (46/1687)
 2023 Kaggke Stable Diffusion - Image to Prompts 银牌 (25/1231)
