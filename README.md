@@ -91,7 +91,7 @@
 2023 International Conference on Neural Computing for Advanced Applications Chinese Diabetes Question Classification Evaluation Task Rank7
 2023 WAIC黑客马拉松————工业赛道“AI引领未来工厂”工业人工智能竞赛 蓝鼎奖
 2023 天池魔搭社区Create@AI黑客马拉松 人气队伍奖
-2023 “领军挂帅，就在佛山” 佛山助企引才精英人才大赛————金融行业赛道 点睛探花奖
+2023 “领军挂帅，就在佛山” 佛山助企引才精英人才大赛————金融行业赛道 点睛探花奖（三等奖）
 </pre></details> 
 
 
