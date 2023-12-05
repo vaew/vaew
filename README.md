@@ -122,7 +122,7 @@
 * <font face="Cambria Math" color=black size=4>Miracle Plus F23 Member</font>
 * <font face="Cambria Math" color=black size=4>China Mobile Star Partner</font>
 * <font face="Cambria Math" color=black size=4>FOCUS Team Visual Group Mentor</font>
-* <font face="Cambria Math" color=black size=4>PaddlePaddle Developers Experts</font>
+* <font face="Cambria Math" color=black size=4>PaddlePaddle Developers Expert</font>
 * <font face="Cambria Math" color=black size=4>United Nations #TEACH GIRLS CODING Volunteer Mentor</font>
 </pre></details>
 
