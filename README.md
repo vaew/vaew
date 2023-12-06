@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vaew&show_icons=true&theme=chartreuse-dark)
 
-<font face="Cambria Math" color=black size=4>**Jing Tang** is an Machine Learning Engineer and Researcher by profession. She is working in the field of Robotic Learning and its Application since 2017. Currently, she is studying as a Ph.D student in Mechatronics Engineering at Huazhong University of Science and Technology, Wuhan, China. Along with study she is also working as Research Assistant (RA) in State Key Laboratory of Digital Manufacturing Equipment and Technology (SKL-DMET) at Huazhong University of Science and Technology. </font>
+<font face="Cambria Math" color=black size=4>**Jing Tang** was born in 2001. Currently, she is studying as a third-year Ph.D. candidate at the State Key Laboratory of Intelligent Manufacturing Equipment and Technology (SKL-IMET) at Huazhong University of Science and Technology (HUST).  She also holds a bachelor’s degree from HUST.</font>
 
 ### <font face="Cambria Math" color=black size=6>Publications</font>
 
