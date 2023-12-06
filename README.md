@@ -14,7 +14,7 @@
 
 <font face="Cambria Math" color=black size=4>**Jing Tang**, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation. <b> *IEEE Sensors Journal (Q1, IF=4.3)* </b>. 2021.</font>
 
-<font face="Cambria Math" color=black size=4>* Corresponding Author；^ These authors contributed equally to this work </font>
+<font face="Cambria Math" color=black size=4>*Corresponding Author；^These authors contributed equally to this work </font>
 
 
 ### <font face="Cambria Math" color=black size=6>Languages and Tools:</font>
