@@ -6,7 +6,7 @@
 
 <font face="Cambria Math" color=black size=4>**Jing Tang** is an Machine Learning Engineer and Researcher by profession. She is working in the field of Robotic Learning and its Application since 2017. Currently, she is studying as a Ph.D student in Mechatronics Engineering at Huazhong University of Science and Technology, Wuhan, China. Along with study she is also working as Research Assistant (RA) in State Key Laboratory of Digital Manufacturing Equipment and Technology (SKL-DMET) at Huazhong University of Science and Technology. </font>
 
-### <font face="Cambria Math" color=black size=6>Publication</font>
+### <font face="Cambria Math" color=black size=6>Publications</font>
 
 <font face="Cambria Math" color=black size=4>**Jing Tang**, Zeyu Gong*, Bo Tao and Zhoupin Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. <b>*Knowledge-Based Systems (Q1, TOP, IF=8.8)*</b>. 2023.</font>
 
