@@ -8,7 +8,9 @@
 
 ### <font face="Cambria Math" color=black size=6>Publications</font>
 
-<font face="Cambria Math" color=black size=4>**Jing Tang**, Zeyu Gong*, Bo Tao and Zhoupin Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. <b>*Knowledge-Based Systems (Q1, TOP, IF=8.8)*</b>. 2023.</font>
+<font face="Cambria Math" color=black size=4>**Jing Tang**, Zeyu Gong*, Bo Tao and Zhouping Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. <b>*Knowledge-Based Systems (Q1, TOP, IF=8.8)*</b>. 2023.</font>
+
+<font face="Cambria Math" color=black size=4>**Jing Tang, Ting Zhang**, Zeyu Gong*, Xianjun Huang, Bo Tao, Zhouping Yin. High precision cervical precancerous lesions classification method based on ConvNeXt. <b>*Bioengineering (Q2, IF=4.6)*</b>. 2023.</font>
 
 <font face="Cambria Math" color=black size=4>**Jing Tang**, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation. <b> *IEEE Sensors Journal (Q1, IF=4.3)* </b>. 2021.</font>
 
