@@ -4,17 +4,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vaew&show_icons=true&theme=chartreuse-dark)
 
-<font face="Cambria Math" color=black size=4>**Jing Tang** was born in 2001. Currently, she is studying as a third-year Ph.D. candidate at the State Key Laboratory of Intelligent Manufacturing Equipment and Technology (SKL-IMET) at Huazhong University of Science and Technology (HUST).  She also holds a bachelor’s degree from HUST.</font>
+<font face="Cambria Math" color=black size=4> <u>**Jing Tang**</u> was born in 2001. Currently, she is studying as a third-year Ph.D. candidate at the State Key Laboratory of Intelligent Manufacturing Equipment and Technology (SKL-IMET) at Huazhong University of Science and Technology (HUST).  She also holds a bachelor’s degree from HUST.</font>
 
 ### <font face="Cambria Math" color=black size=6>Publications</font>
 
-<font face="Cambria Math" color=black size=4>**Jing Tang**, Zeyu Gong*, Bo Tao and Zhouping Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. <b>*Knowledge-Based Systems (Q1, TOP, IF=8.8)*</b>. 2023.</font>
+<font face="Cambria Math" color=black size=4><u>**Jing Tang**</u>*, Zeyu Gong*, Bo Tao and Zhouping Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. <b>*Knowledge-Based Systems (Q1, TOP, IF=8.8)*</b>. 2023.</font>
 
-<font face="Cambria Math" color=black size=4>**Jing Tang^, Ting Zhang^**, Zeyu Gong*, Xianjun Huang. High Precision Cervical Precancerous Lesions Classification Method Based on ConvNeXt. <b>*Bioengineering (Q2, IF=4.6)*</b>. 2023.</font>
+<font face="Cambria Math" color=black size=4><u>**Jing Tang^**</u>, Ting Zhang^, Zeyu Gong*, Xianjun Huang. High Precision Cervical Precancerous Lesions Classification Method Based on ConvNeXt. <b>*Bioengineering (Q2, IF=4.6)*</b>. 2023.</font>
 
 <font face="Cambria Math" color=black size=4>**Jing Tang**, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation. <b> *IEEE Sensors Journal (Q1, IF=4.3)* </b>. 2021.</font>
 
-<font face="Cambria Math" color=black size=4>Houcheng Su*, Weihao Luo, Daixian Liu, Mengzhu Wang, **Jing Tang**, Junyang Chen, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization. <b> *AAAI Conference on Artificial Intelligence (EI, CCF-A)* </b>. 2024.</font>
+<font face="Cambria Math" color=black size=4>Houcheng Su*, Weihao Luo, Daixian Liu, Mengzhu Wang, <u>**Jing Tang**</u>, Junyang Chen, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization. <b> *AAAI Conference on Artificial Intelligence (EI, CCF-A)* </b>. 2024.</font>
 
 <font face="Cambria Math" color=black size=4>*Corresponding Author；^These authors contributed equally to this work </font>
 
