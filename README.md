@@ -14,6 +14,8 @@
 
 <font face="Cambria Math" color=black size=4>**Jing Tang**, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation. <b> *IEEE Sensors Journal (Q1, IF=4.3)* </b>. 2021.</font>
 
+<font face="Cambria Math" color=black size=4>Houcheng Su*, Weihao Luo, Daixian Liu, Mengzhu Wang, **Jing Tang**, Junyang Chen, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization. <b> *AAAI Conference on Artificial Intelligence (EI, CCF-A)* </b>. 2024.</font>
+
 <font face="Cambria Math" color=black size=4>*Corresponding Author；^These authors contributed equally to this work </font>
 
 
