@@ -4,11 +4,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vaew&show_icons=true&theme=chartreuse-dark)
 
-<font face="Cambria Math" color=black size=4> <u>**Jing Tang**</u> was born in 2001. Currently, she is studying as a third-year Ph.D. candidate at the State Key Laboratory of Intelligent Manufacturing Equipment and Technology (SKL-IMET) at Huazhong University of Science and Technology (HUST).  She also holds a bachelor’s degree from HUST.</font>
+<font face="Cambria Math" color=black size=4> <span>**Jing Tang**</span> was born in 2001. Currently, she is studying as a third-year Ph.D. candidate at the State Key Laboratory of Intelligent Manufacturing Equipment and Technology (SKL-IMET) at Huazhong University of Science and Technology (HUST).  She also holds a bachelor’s degree from HUST.</font>
 
 ### <font face="Cambria Math" color=black size=6>Publications</font>
 
-<font face="Cambria Math" color=black size=4><u>**Jing Tang**</u>*, Zeyu Gong*, Bo Tao and Zhouping Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. <b>*Knowledge-Based Systems (Q1, TOP, IF=8.8)*</b>. 2023.</font>
+<font face="Cambria Math" color=black size=4><span>**Jing Tang**</span>*, Zeyu Gong*, Bo Tao and Zhouping Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. <b>*Knowledge-Based Systems (Q1, TOP, IF=8.8)*</b>. 2023.</font>
 
 <font face="Cambria Math" color=black size=4><u>**Jing Tang^**</u>, Ting Zhang^, Zeyu Gong*, Xianjun Huang. High Precision Cervical Precancerous Lesions Classification Method Based on ConvNeXt. <b>*Bioengineering (Q2, IF=4.6)*</b>. 2023.</font>
 
