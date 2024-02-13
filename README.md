@@ -37,7 +37,7 @@
 </pre></details>
 
 
-### <font face="Cambria Math" color=black size=6>Representative AI Competitions</font>
+### <font face="Cambria Math" color=black size=6>Selected AI Competitions</font>
 
 <details>
 <summary>Expand to View</summary>
