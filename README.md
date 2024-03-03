@@ -2,7 +2,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vaew&show_icons=true&theme=chartreuse-dark)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vaew&show_icons=true&theme=chartreuse-dark)
 
 <font face="Cambria Math" color=black size=4> **Jing Tang** was born in 2001. Currently, she is studying as a third-year Ph.D. candidate at the State Key Laboratory of Intelligent Manufacturing Equipment and Technology (SKL-IMET) at Huazhong University of Science and Technology (HUST).  She also holds a bachelor’s degree from HUST.</font>
 
