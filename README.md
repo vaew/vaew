@@ -16,7 +16,7 @@
 
 <font face="Cambria Math" color=black size=4>Houcheng Su*, Weihao Luo, Daixian Liu, Mengzhu Wang, **Jing Tang**, Junyang Chen, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization. <b> *AAAI Conference on Artificial Intelligence (EI, CCF-A)* </b>. 2024.</font>
 
-<font face="Cambria Math" color=black size=4>Jiaxi Cui, Liuzhenghao Lv, Jing Wen, **Jing Tang**, YongHong Tian, Li Yuan*. Machine Mindset: An MBTI Exploration of Large Language Models. <b> *Arxiv* </b>. 2024.</font>
+<font face="Cambria Math" color=black size=4>Jiaxi Cui, Liuzhenghao Lv, Jing Wen, Rongsheng Wang, **Jing Tang**, YongHong Tian, Li Yuan*. Machine Mindset: An MBTI Exploration of Large Language Models. <b> *Arxiv* </b>. 2024.</font>
 
 <font face="Cambria Math" color=black size=4>*Corresponding Author；^These authors contributed equally to this work </font>
 
