@@ -3,7 +3,7 @@
 
 ---
 
-<font face="Cambria Math" color=black size=4> **Jing Tang** was born in 2001. Currently, she is studying as a third-year Ph.D. candidate at the State Key Laboratory of Intelligent Manufacturing Equipment and Technology (SKL-IMET) at Huazhong University of Science and Technology (HUST) under the supervision of [Prof. Bo Tao](https://mse.hust.edu.cn/info/1142/1328.htm). She also holds a bachelor’s degree from HUST.</font>
+<font face="Cambria Math" color=black size=4> **Jing Tang** was born in 2001. Currently, she is studying as a third-year Ph.D. candidate at the State Key Laboratory of Intelligent Manufacturing Equipment and Technology ([SKL-IMET](https://dmet.hust.edu.cn/)) at Huazhong University of Science and Technology ([HUST](https://english.hust.edu.cn/)) under the supervision of [Prof. Bo Tao](https://mse.hust.edu.cn/info/1142/1328.htm). She also holds a bachelor’s degree from HUST.</font>
 
 ---
 
