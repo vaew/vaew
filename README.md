@@ -9,6 +9,8 @@
 
 ### <font face="Cambria Math" color=black size=6>Publications</font>
 
+<font face="Cambria Math" color=black size=4> **Jing Tang**, Zeyu Gong*, Bo Tao and Zhouping Yin. SingleS2R: Single Sample Driven Sim-to-Real Transfer for Multi-Source Visual-Tactile Information Understanding using Multi-Scale Vision Transformers. <b>*Information Fusion (SCI, Q1, TOP, IF=18.6)*</b>. 2024.</font>
+
 <font face="Cambria Math" color=black size=4> **Jing Tang**, Zeyu Gong*, Bo Tao and Zhouping Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. <b>*Knowledge-Based Systems (SCI, Q1, TOP, IF=8.8)*</b>. 2023.</font>
 
 <font face="Cambria Math" color=black size=4> **Jing Tang**, Zeyu Gong*, Bo Tao, Zhouping Yin and Han Ding. Network Convergence Indicator for Efficient Robot Grasping Pose Detection under Limited Computation Resource. <b>*IEEE Transactions on Instrumentation and Measurement (SCI, Q1, TOP, IF=5.6)*</b>. 2024.</font>
