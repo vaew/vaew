@@ -160,7 +160,7 @@
 <font face="Cambria Math" color=black size=4>State Key Laboratory of Intelligent Manufacturing Equipment and Technology</font>
 <font face="Cambria Math" color=black size=4>Huazhong University of Science & Technology</font>
 <font face="Cambria Math" color=black size=4>Wuhan, Hubei, P. R. China (430074)</font>
-<font face="Cambria Math" color=black size=4>Email: j_tang@hust.edu.cn</font>
+<font face="Cambria Math" color=black size=4>Email: j_tang@hust.edu.cn / focusers@163.com </font>
 </pre></details> 
 
 
