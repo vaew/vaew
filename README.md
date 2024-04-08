@@ -7,7 +7,7 @@
 
 ---
 
-### <font face="Cambria Math" color=black size=6>Publications</font>
+### <font face="Cambria Math" color=black size=6>Selected Publications</font>
 
 <font face="Cambria Math" color=black size=4> **Jing Tang**, Zeyu Gong*, Bo Tao* and Zhouping Yin. SingleS2R: Single Sample Driven Sim-to-Real Transfer for Multi-Source Visual-Tactile Information Understanding using Multi-Scale Vision Transformers. <b>*Information Fusion (SCI, Q1, TOP, IF=18.6)*</b>. 2024.</font>
 
@@ -19,11 +19,7 @@
 
 <font face="Cambria Math" color=black size=4>**Jing Tang**, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation. <b> *IEEE Sensors Journal (SCI, Q1, IF=4.3)* </b>. 2021.</font>
 
-<font face="Cambria Math" color=black size=4>Houcheng Su*, Weihao Luo, Daixian Liu, Mengzhu Wang, **Jing Tang**, Junyang Chen, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization. <b> *Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence (AAAI, CCF-A)* </b>. 2024.</font>
-
 <font face="Cambria Math" color=black size=4>**Jing Tang^**, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. <b> *Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C)* </b>. 2024.</font>
-
-<font face="Cambria Math" color=black size=4>Jiaxi Cui, Liuzhenghao Lv, Jing Wen, Rongsheng Wang, **Jing Tang**, YongHong Tian, Li Yuan*. Machine Mindset: An MBTI Exploration of Large Language Models. <b> *Arxiv* </b>. 2024.</font>
 
 <font face="Cambria Math" color=black size=4>*Corresponding Author；^These authors contributed equally to this work </font>
 
