@@ -4,6 +4,7 @@
 ---
 
 <font face="Cambria Math" color=black size=4> **Jing Tang** was born in 2001. Currently, she is studying as a third-year Ph.D. candidate at [the State Key Laboratory of Intelligent Manufacturing Equipment and Technology (SKL-IMET)](https://dmet.hust.edu.cn/) at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) under the supervision of [Prof. Bo Tao](https://mse.hust.edu.cn/info/1142/1328.htm). She also holds a bachelor’s degree from HUST.</font>
+
 Google Scholar: [link](https://scholar.google.com/citations?hl=en&user=UIH3wxMAAAAJ&view_op=list_works&citft=1&email_for_op=reotnovgib%40gmail.com&gmla=AH70aAU5SkZx1ujAIuCZDcKzzMROXcoDDUZiEcurfeLnLkx7JxzFE8mh5h1-xtaM3v8YxvuuXOguLBajqIfy96MLiO9vbM9FUN4BxWg3rT0igo37vcXbY2VaZ0PQoQR6m1uIBzzOwxA7c5ENaojCdI_9GgVos6W8fXV3HCz4GWBpQd8qmhBp8i1z-s9KgRv13v7gIDa8e_fvpXE6HcqxIEPSRVtrH9ti3A_rbnopybTvFUU)
 
 ---
