@@ -26,12 +26,19 @@ Google Scholar: [link](https://scholar.google.com/citations?hl=en&user=UIH3wxMAA
 <details>
 <summary>Expand to View</summary>
 <pre>
-1. ***Jing Tang***, Zeyu Gong^*, Bo Tao^* and Zhouping Yin. SingleS2R: Single Sample Driven Sim-to-Real Transfer for Multi-Source Visual-Tactile Information Understanding using Multi-Scale Vision Transformers. Information Fusion (SCI, Q1, TOP, IF=18.6). 2024.
+
+1. ***Jing Tang***, Zeyu Gong*, Bo Tao and Zhouping Yin. SingleS2R: Single Sample Driven Sim-to-Real Transfer for Multi-Source Visual-Tactile Information Understanding using Multi-Scale Vision Transformers. Information Fusion (SCI, Q1, TOP, IF=18.6). 2024.
+
 2. Shunlei Li^, ***Jing Tang***^, Wen Zhou, Yin Zhang*, Muhammad Adeel Azam, Leonardo S. Mattos. Reliable Multiplex Semi-Local Random Walk Based on Influential Nodes to Improve Link Prediction in Complex Networks. Artificial Intelligence Review (SCI, Q1, TOP, IF=12.0). 2024.
+
 3. ***Jing Tang***, Zeyu Gong*, Bo Tao and Zhouping Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. Knowledge-Based Systems (SCI, Q1, TOP, IF=8.8). 2023.
+
 4. ***Jing Tang***, Zeyu Gong*, Bo Tao, Zhouping Yin and Han Ding. Network Convergence Indicator for Efficient Robot Grasping Pose Detection under Limited Computation Resource. IEEE Transactions on Instrumentation and Measurement (SCI, Q1, TOP, IF=5.6). 2024.
+
 5. ***Jing Tang***, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation. IEEE Sensors Journal (SCI, Q1, IF=4.3). 2021.
+
 6. ***Jing Tang***^, Ting Zhang^, Zeyu Gong*, Xianjun Huang. High Precision Cervical Precancerous Lesions Classification Method Based on ConvNeXt. Bioengineering (SCI, Q2, IF=4.6). 2023.
+
 7. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C) . 2024.
 
 8. Houcheng Su, Weihao Luo, Daixian Liu, Mengzhu Wang, ***Jing Tang***, Junyan Cheng, Cong Wang, Zhenghan Chen.Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization.Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A). 2024.
