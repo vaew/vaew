@@ -13,6 +13,23 @@ Google Scholar: [link](https://scholar.google.com/citations?hl=en&user=UIH3wxMAA
 
 <font face="Cambria Math" color=black size=4> **Jing Tang**, Zeyu Gong*, Bo Tao* and Zhouping Yin. SingleS2R: Single Sample Driven Sim-to-Real Transfer for Multi-Source Visual-Tactile Information Understanding using Multi-Scale Vision Transformers. <b>*Information Fusion (SCI, Q1, TOP, IF=18.6)*</b>. 2024.</font>
 
+<font face="Cambria Math" color=black size=4> Shunlei Li^, **Jing Tang^**, Wen Zhou, Yin Zhang*, Muhammad Adeel Azam, Leonardo S. Mattos. Reliable Multiplex Semi-Local Random Walk Based on Influential Nodes to Improve Link Prediction in Complex Networks. <b>*Artificial Intelligence Review (SCI, Q1, TOP, IF=12.0)*</b>. 2024.</font>
+
+<font face="Cambria Math" color=black size=4> **Jing Tang**, Zeyu Gong*, Bo Tao and Zhouping Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. <b>*Knowledge-Based Systems (SCI, Q1, TOP, IF=8.8)*</b>. 2023.</font>
+
+<font face="Cambria Math" color=black size=4> **Jing Tang**, Zeyu Gong*, Bo Tao, Zhouping Yin and Han Ding. Network Convergence Indicator for Efficient Robot Grasping Pose Detection under Limited Computation Resource. <b>*IEEE Transactions on Instrumentation and Measurement (SCI, Q1, TOP, IF=5.6)*</b>. 2024.</font>
+
+<font face="Cambria Math" color=black size=4>*Corresponding Author；^These authors contributed equally to this work </font>
+
+### <font face="Cambria Math" color=black size=6>Publications</font>
+
+<details>
+<summary>Expand to View</summary>
+<pre>
+<font face="Cambria Math" color=black size=4>**Jing Tang**, Zeyu Gong*, Bo Tao* and Zhouping Yin. SingleS2R: Single Sample Driven Sim-to-Real Transfer for Multi-Source Visual-Tactile Information Understanding using Multi-Scale Vision Transformers. <b>*Information Fusion (SCI, Q1, TOP, IF=18.6)*</b>. 2024.</font>
+
+<font face="Cambria Math" color=black size=4> Shunlei Li^, **Jing Tang^**, Wen Zhou, Yin Zhang*, Muhammad Adeel Azam, Leonardo S. Mattos. Reliable Multiplex Semi-Local Random Walk Based on Influential Nodes to Improve Link Prediction in Complex Networks. <b>*Artificial Intelligence Review (SCI, Q1, TOP, IF=12.0)*</b>. 2024.</font>
+
 <font face="Cambria Math" color=black size=4> **Jing Tang**, Zeyu Gong*, Bo Tao and Zhouping Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. <b>*Knowledge-Based Systems (SCI, Q1, TOP, IF=8.8)*</b>. 2023.</font>
 
 <font face="Cambria Math" color=black size=4> **Jing Tang**, Zeyu Gong*, Bo Tao, Zhouping Yin and Han Ding. Network Convergence Indicator for Efficient Robot Grasping Pose Detection under Limited Computation Resource. <b>*IEEE Transactions on Instrumentation and Measurement (SCI, Q1, TOP, IF=5.6)*</b>. 2024.</font>
@@ -23,7 +40,10 @@ Google Scholar: [link](https://scholar.google.com/citations?hl=en&user=UIH3wxMAA
 
 <font face="Cambria Math" color=black size=4>**Jing Tang^**, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. <b> *Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C)* </b>. 2024.</font>
 
+<font face="Cambria Math" color=black size=4> Houcheng Su, Weihao Luo, Daixian Liu, Mengzhu Wang, **Jing Tang**, Junyan Cheng, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization.<b> *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A)* </b>. 2024.</font>
+
 <font face="Cambria Math" color=black size=4>*Corresponding Author；^These authors contributed equally to this work </font>
+</pre></details>
 
 
 <!-- ### <font face="Cambria Math" color=black size=6>Languages and Tools:</font>-->
