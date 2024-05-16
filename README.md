@@ -21,7 +21,7 @@ Google Scholar: [link](https://scholar.google.com/citations?hl=en&user=UIH3wxMAA
 
 <font face="Cambria Math" color=black size=4>*Corresponding Author；^These authors contributed equally to this work </font>
 
-### <font face="Cambria Math" color=black size=6>Publications</font>
+### <font face="Cambria Math" color=black size=6>All Publications</font>
 
 <details>
 <summary>Expand to View</summary>
