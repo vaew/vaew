@@ -7,7 +7,7 @@
 
 Google Scholar: [link](https://scholar.google.com/citations?hl=en&user=UIH3wxMAAAAJ&view_op=list_works&citft=1&email_for_op=reotnovgib%40gmail.com&gmla=AH70aAU5SkZx1ujAIuCZDcKzzMROXcoDDUZiEcurfeLnLkx7JxzFE8mh5h1-xtaM3v8YxvuuXOguLBajqIfy96MLiO9vbM9FUN4BxWg3rT0igo37vcXbY2VaZ0PQoQR6m1uIBzzOwxA7c5ENaojCdI_9GgVos6W8fXV3HCz4GWBpQd8qmhBp8i1z-s9KgRv13v7gIDa8e_fvpXE6HcqxIEPSRVtrH9ti3A_rbnopybTvFUU)
 
-resume:[link](blob:https://github.com/b8b231c3-b818-44b7-b98e-d76b07abb096)
+resume:[link](https://github.com/vaew/vaew/blob/main/resume_v20240524-CN.pdf)
 
 ---
 
