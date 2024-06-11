@@ -161,7 +161,7 @@
 <pre>
 * <font face="Cambria Math" color=black size=4>Zlab Member</font>
 * <font face="Cambria Math" color=black size=4>Kaggle Expert</font>
-  * <font face="Cambria Math" color=black size=4>Datawhale Member</font>
+* <font face="Cambria Math" color=black size=4>Datawhale Member</font>
 * <font face="Cambria Math" color=black size=4>Chamd5 AI Lab Leader</font>
 * <font face="Cambria Math" color=black size=4>Miracle Plus F23 Member</font>
 * <font face="Cambria Math" color=black size=4>China Mobile Star Partner</font>
