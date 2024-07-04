@@ -42,6 +42,13 @@
 
 8. Houcheng Su^, Weihao Luo^, Daixian Liu, Mengzhu Wang*, ***Jing Tang***, Junyan Cheng, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization.Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A). 2024.
 
+9. Hui Feng, Zhenfeng Gu, Yi Zhou, Chao Chen, Ruiwen Hu, ***Jing Tang***, Zeyu Gong*, and Bo Tao. A Cross-media Localization Method for Amphibious Climbing Robot. International Conference on Intelligent Robotics and Applications (ICIRA, EI). 2024.
+
+10. Weiting Peng, ***Jing Tang***, Zeyu Gong*, and Bo Tao. Prediction of Hand Kinematics in Grasping with Mamba-based Graph Convolutional Networks. (**Oral** in ICIRA, EI). 2024.
+
+11. Yafeng Zhang^*, Zilan Yu^*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
+
+
 *Corresponding Author；^These authors contributed equally to this work
 </details>
 
