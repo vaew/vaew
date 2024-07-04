@@ -46,7 +46,7 @@
 
 10. Weiting Peng, ***Jing Tang***, Zeyu Gong*, and Bo Tao. Prediction of Hand Kinematics in Grasping with Mamba-based Graph Convolutional Networks. (**Oral** in ICIRA, EI). 2024.
 
-11. Yafeng Zhang^*, Zilan Yu^*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
+11. Yafeng Zhang^\*, Zilan Yu^\*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
 
 
 *Corresponding Author；^These authors contributed equally to this work
