@@ -52,6 +52,12 @@
 *Corresponding Author；^These authors contributed equally to this work
 </details>
 
+### <font face="Cambria Math" color=black size=6>Technical Reports</font>
+<details>
+<summary>Expand to View</summary>
+1. Machine Mindset: An MBTI Exploration of Large Language Models: https://arxiv.org/abs/2312.12999
+2. AnyTaskTune: Advanced Domain-Specific Solutions through Task-Fine-Tuning: https://arxiv.org/abs/2407.07094
+</details>
 
 <!-- ### <font face="Cambria Math" color=black size=6>Languages and Tools:</font>-->
 
