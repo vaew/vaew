@@ -56,9 +56,9 @@
 <details>
 <summary>Expand to View</summary>
   
-1. Machine Mindset: An MBTI Exploration of Large Language Models: https://arxiv.org/abs/2312.12999
+1. Jiaxi Cui, Liuzhenghao Lv, Jing Wen, Rongsheng Wang, ***Jing Tang***, YongHong Tian, Li Yuan. Machine Mindset: An MBTI Exploration of Large Language Models: https://arxiv.org/abs/2312.12999
 
-2. AnyTaskTune: Advanced Domain-Specific Solutions through Task-Fine-Tuning: https://arxiv.org/abs/2407.07094
+2. Jiaxi Cui, Wentao Zhang, ***Jing Tang***, Xudong Tong, Zhenwei Zhang, Amie, Jing Wen, Rongsheng Wang, Pengfei Wu.AnyTaskTune: Advanced Domain-Specific Solutions through Task-Fine-Tuning: https://arxiv.org/abs/2407.07094
 
 
 </details>
