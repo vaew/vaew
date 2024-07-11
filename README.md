@@ -32,21 +32,23 @@
 
 3. ***Jing Tang***, Zeyu Gong*, Bo Tao and Zhouping Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. Knowledge-Based Systems (IF=8.8). 2023.
 
-4. ***Jing Tang***, Zeyu Gong*, Bo Tao, Zhouping Yin and Han Ding. Network Convergence Indicator for Efficient Robot Grasping Pose Detection under Limited Computation Resource. IEEE Transactions on Instrumentation and Measurement (IF=5.6). 2024.
+4. ***Jing Tang***^, Decheng Xu^, Qingwei Cai, Shunlei Li*, Amin Rezaeipanah*. Towards a Semi-supervised Ensemble Clustering Framework with Flexible Weighting Mechanism and Constraints Information. Engineering Applications of Artificial Intelligence (IF=7.5). 2024.
 
-5. ***Jing Tang***, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation. IEEE Sensors Journal (IF=4.3). 2021.
+5. ***Jing Tang***, Zeyu Gong*, Bo Tao, Zhouping Yin and Han Ding. Network Convergence Indicator for Efficient Robot Grasping Pose Detection under Limited Computation Resource. IEEE Transactions on Instrumentation and Measurement (IF=5.6). 2024.
 
-6. ***Jing Tang***^, Ting Zhang^, Zeyu Gong*, Xianjun Huang. High Precision Cervical Precancerous Lesions Classification Method Based on ConvNeXt. Bioengineering (IF=4.6). 2023.
+6. ***Jing Tang***, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation. IEEE Sensors Journal (IF=4.3). 2021.
 
-7. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
+7. ***Jing Tang***^, Ting Zhang^, Zeyu Gong*, Xianjun Huang. High Precision Cervical Precancerous Lesions Classification Method Based on ConvNeXt. Bioengineering (IF=4.6). 2023.
 
-8. Houcheng Su^, Weihao Luo^, Daixian Liu, Mengzhu Wang*, ***Jing Tang***, Junyan Cheng, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization.Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A). 2024.
+8. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
 
-9. Hui Feng, Zhenfeng Gu, Yi Zhou, Chao Chen, Ruiwen Hu, ***Jing Tang***, Zeyu Gong*, and Bo Tao. A Cross-media Localization Method for Amphibious Climbing Robot. International Conference on Intelligent Robotics and Applications (ICIRA, EI). 2024.
+9. Houcheng Su^, Weihao Luo^, Daixian Liu, Mengzhu Wang*, ***Jing Tang***, Junyan Cheng, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization.Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A). 2024.
 
-10. Weiting Peng, ***Jing Tang***, Zeyu Gong*, and Bo Tao. Prediction of Hand Kinematics in Grasping with Mamba-based Graph Convolutional Networks. International Conference on Intelligent Robotics and Applications (**Oral** in ICIRA, EI). 2024.
+10. Hui Feng, Zhenfeng Gu, Yi Zhou, Chao Chen, Ruiwen Hu, ***Jing Tang***, Zeyu Gong*, and Bo Tao. A Cross-media Localization Method for Amphibious Climbing Robot. International Conference on Intelligent Robotics and Applications (ICIRA, EI). 2024.
 
-11. Yafeng Zhang^\*, Zilan Yu^\*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
+11. Weiting Peng, ***Jing Tang***, Zeyu Gong*, and Bo Tao. Prediction of Hand Kinematics in Grasping with Mamba-based Graph Convolutional Networks. International Conference on Intelligent Robotics and Applications (**Oral** in ICIRA, EI). 2024.
+
+12. Yafeng Zhang^\*, Zilan Yu^\*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
 
 
 *Corresponding Author；^These authors contributed equally to this work
