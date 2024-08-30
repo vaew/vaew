@@ -58,7 +58,7 @@
 <details>
 <summary>Expand to View</summary>
 
-1. ***Jing Tang***, Quanlu Jia, Yuqiang Xie, Zeyu Gong, Xiang Wen, Jiayi Zhang, Yalong Guo, Guibin Chen, Jiangping Yang. SkyScript-100M: 1,000,000,000 Pairs of Scripts and Shooting Scripts for Short Drama: https://arxiv.org/abs/2408.09333
+1. ***Jing Tang***, Quanlu Jia, Yuqiang Xie, Zeyu Gong, Xiang Wen, Jiayi Zhang, Yalong Guo, Guibin Chen, Jiangping Yang. SkyScript-100M: 1,000,000,000 Pairs of Scripts and Shooting Scripts for Short Drama: https://arxiv.org/abs/2408.09333v2
 
 2. Jiaxi Cui, Wentao Zhang, ***Jing Tang***, Xudong Tong, Zhenwei Zhang, Amie, Jing Wen, Rongsheng Wang, Pengfei Wu. AnyTaskTune: Advanced Domain-Specific Solutions through Task-Fine-Tuning: https://arxiv.org/abs/2407.07094
 
