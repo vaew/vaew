@@ -38,19 +38,21 @@
 
 6. ***Jing Tang***, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation. IEEE Sensors Journal (IF=4.3). 2021.
 
-7. Weiting Peng^, ***Jing Tang***^, Zeyu Gong*. Remaining Useful Life Prediction of Bearings Using Reverse Attention Graph Convolution Network with Residual Convolution Transformer. IEEE Sensors Journal (IF=4.3). 2024.
+7. ***Jing Tang***, Zeyu Gong, Yajun Fan*. High-performance surface defect detection of aluminum substrate based on event camera. Journal of Computational Design and Engineering (IF=4.8). 2024.
 
-8. ***Jing Tang***^, Ting Zhang^, Zeyu Gong*, Xianjun Huang. High Precision Cervical Precancerous Lesions Classification Method Based on ConvNeXt. Bioengineering (IF=4.6). 2023.
+8. Weiting Peng^, ***Jing Tang***^, Zeyu Gong*. Remaining Useful Life Prediction of Bearings Using Reverse Attention Graph Convolution Network with Residual Convolution Transformer. IEEE Sensors Journal (IF=4.3). 2024.
 
-9. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
+9. ***Jing Tang***^, Ting Zhang^, Zeyu Gong*, Xianjun Huang. High Precision Cervical Precancerous Lesions Classification Method Based on ConvNeXt. Bioengineering (IF=4.6). 2023.
 
-10. Houcheng Su^, Weihao Luo^, Daixian Liu, Mengzhu Wang*, ***Jing Tang***, Junyan Cheng, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization.Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A). 2024.
+10. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
 
-11. Hui Feng, Zhenfeng Gu, Yi Zhou, Chao Chen, Ruiwen Hu, ***Jing Tang***, Zeyu Gong*, and Bo Tao. A Cross-media Localization Method for Amphibious Climbing Robot. International Conference on Intelligent Robotics and Applications (ICIRA, EI). 2024.
+11. Houcheng Su^, Weihao Luo^, Daixian Liu, Mengzhu Wang*, ***Jing Tang***, Junyan Cheng, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization.Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A). 2024.
 
-12. Weiting Peng, ***Jing Tang***, Zeyu Gong*, and Bo Tao. Prediction of Hand Kinematics in Grasping with Mamba-based Graph Convolutional Networks. International Conference on Intelligent Robotics and Applications (**Oral** in ICIRA, EI). 2024.
+12. Hui Feng, Zhenfeng Gu, Yi Zhou, Chao Chen, Ruiwen Hu, ***Jing Tang***, Zeyu Gong*, and Bo Tao. A Cross-media Localization Method for Amphibious Climbing Robot. International Conference on Intelligent Robotics and Applications (ICIRA, EI). 2024.
 
-13. Yafeng Zhang^\*, Zilan Yu^\*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
+13. Weiting Peng, ***Jing Tang***, Zeyu Gong*, and Bo Tao. Prediction of Hand Kinematics in Grasping with Mamba-based Graph Convolutional Networks. International Conference on Intelligent Robotics and Applications (**Oral** in ICIRA, EI). 2024.
+
+14. Yafeng Zhang^\*, Zilan Yu^\*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
 
 
 *Corresponding Author；^These authors contributed equally to this work
@@ -73,7 +75,7 @@
 
 <!-- <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p> -->
 
-### <font face="Cambria Math" color=black size=6>Selected AI Competitions</font>
+### <font face="Cambria Math" color=black size=6>Selected Competitions</font>
 
 <details>
 <summary>Expand to View</summary>
@@ -84,6 +86,7 @@
 2022 “移动云杯”算力网络应用创新大赛（行业赛道）工业边缘云应用————叉车周界行人检测专题 Rank1
 2023 科大讯飞AI开发者大赛————大视角差图像特征提取及匹配挑战赛 Rank1
 2023 “SEED”第四届江苏大数据开发与应用大赛————医疗卫生赛道 Rank1
+2024 “申昊杯”第五届中国研究生机器人创新设计大赛————集成组 全国二等奖（面向大型复杂构件蒙皮磨抛活化的吸附式移动磨抛机器人设计）
 2024 第三届工业数字孪生大赛————设备预测性维护 二等奖
 2023 第二届粤港澳大湾区（黄埔）国际算法算例大赛————看视频说话 Rank2 (Prize Money 200,000 RMB)
 2023 第二届粤港澳大湾区（黄埔）国际算法算例大赛————路侧毫米波雷达标定与目标跟踪 Rank2 (Prize Money 200,000 RMB)
