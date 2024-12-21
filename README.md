@@ -44,13 +44,13 @@
 
 9. ***Jing Tang***^, Ting Zhang^, Zeyu Gong*, Xianjun Huang. High Precision Cervical Precancerous Lesions Classification Method Based on ConvNeXt. Bioengineering (IF=4.6). 2023.
 
-10. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
+10. Houcheng Su^, Weihao Luo^, Daixian Liu, Mengzhu Wang*, ***Jing Tang***, Junyan Cheng, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization.Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A). 2024.
 
-11. Houcheng Su^, Weihao Luo^, Daixian Liu, Mengzhu Wang*, ***Jing Tang***, Junyan Cheng, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization.Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A). 2024.
+11. ***Jing Tang***, Hongru Xiao, Xiang Li, Wei Wang*, and Zeyu Gong. ChatCAD: An MLLM-Guided Framework for Zero-shot CAD Drawing Restoration. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B). 2024.
 
-12. ***Jing Tang***, Hongru Xiao, Xiang Li, Wei Wang*, and Zeyu Gong. ChatCAD: An MLLM-Guided Framework for Zero-shot CAD Drawing Restoration. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B). 2024.
+12. ***Jing Tang***^, Zixuan He^, Zitong Zhao, and Zeyu Gong*. RWKVMatch: Vision RWKV-based Multi-scale Feature Matching Network for Unsupervised Deformable Medical Image Registration (ICASSP, CCF-B). 2024.
 
-13. ***Jing Tang***^, Zixuan He^, Zitong Zhao, and Zeyu Gong*. RWKVMatch: Vision RWKV-based Multi-scale Feature Matching Network for Unsupervised Deformable Medical Image Registration (ICASSP, CCF-B). 2024.
+13. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
 
 14. Hui Feng, Zhenfeng Gu, Yi Zhou, Chao Chen, Ruiwen Hu, ***Jing Tang***, Zeyu Gong*, and Bo Tao. A Cross-media Localization Method for Amphibious Climbing Robot. International Conference on Intelligent Robotics and Applications (ICIRA, EI). 2024.
 
