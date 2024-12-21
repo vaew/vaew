@@ -48,7 +48,7 @@
 
 11. ***Jing Tang***, Hongru Xiao, Xiang Li, Wei Wang*, and Zeyu Gong. ChatCAD: An MLLM-Guided Framework for Zero-shot CAD Drawing Restoration. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B). 2024.
 
-12. ***Jing Tang***^, Zixuan He^, Zitong Zhao, and Zeyu Gong*. RWKVMatch: Vision RWKV-based Multi-scale Feature Matching Network for Unsupervised Deformable Medical Image Registration (ICASSP, CCF-B). 2024.
+12. Zixuan He^, ***Jing Tang***^, Zitong Zhao, and Zeyu Gong*. RWKVMatch: Vision RWKV-based Multi-scale Feature Matching Network for Unsupervised Deformable Medical Image Registration (ICASSP, CCF-B). 2024.
 
 13. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
 
