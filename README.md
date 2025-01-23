@@ -58,6 +58,8 @@
 
 16. Yafeng Zhang^\*, Zilan Yu^\*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
 
+17. Pingyu Wu, Daiheng Gao, ***Jing Tang***, Huimin Chen, Wenbo Zhou, Weiming Zhang and Nenghai Yu, MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG, the North American Chapter of the Association for Computational Linguistics Findings (NAACL, CCF-B). 2025.
+
 
 *Corresponding Author；^These authors contributed equally to this work
 </details>
