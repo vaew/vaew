@@ -50,15 +50,19 @@
 
 12. Zixuan He^, ***Jing Tang***^, Zitong Zhao, and Zeyu Gong*. RWKVMatch: Vision RWKV-based Multi-scale Feature Matching Network for Unsupervised Deformable Medical Image Registration (ICASSP, CCF-B). 2024.
 
-13. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
+13. Jialin Xu^, ***Jing Tang***^, Yankai Jin, Jun Liu, and Zeyu Gong*. Rethinking Steel Surface Defect Segmentation with Pseudo Mixup and Self Distillation (ICME, CCF-B). 2025.
 
-14. Hui Feng, Zhenfeng Gu, Yi Zhou, Chao Chen, Ruiwen Hu, ***Jing Tang***, Zeyu Gong*, and Bo Tao. A Cross-media Localization Method for Amphibious Climbing Robot. International Conference on Intelligent Robotics and Applications (ICIRA, EI). 2024.
+14. Xiang Li, Hongru Xiao, Jiale Han, ***Jing Tang***, Jiabao Ma, Wei Wang*, Bo Cheng. DialogueAgents: A Hybrid Agent-Based Speech Synthesis Framework for Multi-Party Dialogue (ICME, CCF-B). 2025.
 
-15. Weiting Peng, ***Jing Tang***, Zeyu Gong*, and Bo Tao. Prediction of Hand Kinematics in Grasping with Mamba-based Graph Convolutional Networks. International Conference on Intelligent Robotics and Applications (**Oral** in ICIRA, EI). 2024.
+15. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
 
-16. Yafeng Zhang^\*, Zilan Yu^\*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
+16. Hui Feng, Zhenfeng Gu, Yi Zhou, Chao Chen, Ruiwen Hu, ***Jing Tang***, Zeyu Gong*, and Bo Tao. A Cross-media Localization Method for Amphibious Climbing Robot. International Conference on Intelligent Robotics and Applications (ICIRA, EI). 2024.
 
-17. Pingyu Wu, Daiheng Gao, ***Jing Tang***, Huimin Chen, Wenbo Zhou, Weiming Zhang and Nenghai Yu, MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG, the North American Chapter of the Association for Computational Linguistics Findings (NAACL, CCF-B). 2025.
+17. Weiting Peng, ***Jing Tang***, Zeyu Gong*, and Bo Tao. Prediction of Hand Kinematics in Grasping with Mamba-based Graph Convolutional Networks. International Conference on Intelligent Robotics and Applications (**Oral** in ICIRA, EI). 2024.
+
+18. Yafeng Zhang^\*, Zilan Yu^\*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
+
+19. Pingyu Wu, Daiheng Gao, ***Jing Tang***, Huimin Chen, Wenbo Zhou, Weiming Zhang and Nenghai Yu, MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG, the North American Chapter of the Association for Computational Linguistics Findings (NAACL, CCF-B). 2025.
 
 
 *Corresponding Author；^These authors contributed equally to this work
