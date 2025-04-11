@@ -64,7 +64,7 @@
 
 19. Pingyu Wu, Daiheng Gao, ***Jing Tang***, Huimin Chen, Wenbo Zhou, Weiming Zhang and Nenghai Yu, MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG, the North American Chapter of the Association for Computational Linguistics Findings (NAACL, CCF-B). 2025.
     
-20. Zezhou Wang^, ***Jing Tang***^\*, T3V2V: Test Time Training for Domain Adaptation in Video-to-Video Editing,  AI for Creative Visual Content Generation Editing and Understanding Workshop onThe IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A). 2025.
+20. Zezhou Wang^, ***Jing Tang***^\*, T3V2V: Test Time Training for Domain Adaptation in Video-to-Video Editing,  AI for Creative Visual Content Generation Editing and Understanding Workshop on The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A). 2025.
 
 
 
