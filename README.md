@@ -66,7 +66,7 @@
     
 20. Zezhou Wang^, ***Jing Tang***^\*, T3V2V: Test Time Training for Domain Adaptation in Video-to-Video Editing,  AI for Creative Visual Content Generation Editing and Understanding Workshop on The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A). 2025.
 
-
+21. Jun Liu^, ***Jing Tang***^, Yunshu Yang, Xingyu Chen, Ying Shi\*, Zeyu Gong, IndustFlow: MLLMs-Driven Industrial Processes Flowchart Synthesis with Cross-Domain Knowledge Alignment. The 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM, EI). 2025.
 
 
 *Corresponding Author；^These authors contributed equally to this work
