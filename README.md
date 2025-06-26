@@ -68,6 +68,8 @@
 
 21. Jun Liu^, ***Jing Tang***^, Yunshu Yang, Xingyu Chen, Ying Shi\*, Zeyu Gong, IndustFlow: MLLMs-Driven Industrial Processes Flowchart Synthesis with Cross-Domain Knowledge Alignment. The 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM, EI). 2025.
 
+22. Jiaqi Wu, Simin Chen, ***Jing Tang***, Yuzhe Yang, Yiming Chen, Lixu Wang, Song Lin, Zehua Wang, Wei Chen, Zijian Tian. FDPT: Federated Discrete Prompt Tuning for Black-Box Visual-Language Models. International Conference on Computer Vision (ICCV, CCF-A). 2025.
+
 
 *Corresponding Author；^These authors contributed equally to this work
 </details>
