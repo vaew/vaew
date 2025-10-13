@@ -28,53 +28,55 @@
   
 1. ***Jing Tang***, Zeyu Gong*, Bo Tao* and Zhouping Yin. SingleS2R: Single Sample Driven Sim-to-Real Transfer for Multi-Source Visual-Tactile Information Understanding using Multi-Scale Vision Transformers. Information Fusion (IF=18.6). 2024.
 
-2. Shunlei Li^, ***Jing Tang***^, Wen Zhou, Yin Zhang*, Muhammad Adeel Azam, Leonardo S. Mattos. Reliable Multiplex Semi-Local Random Walk Based on Influential Nodes to Improve Link Prediction in Complex Networks. Artificial Intelligence Review (IF=12.0). 2024.
+2. Jing Wang, Yongchao Xu, ***Jing Tang***, Zeyu Gong, Bo Tao, Clarence W. de Silva and Xiang Bai. Vicinal Gaussian Transform: Rethinking Source-Free Domain Adaptation through Source-Informed Label Consistency. IEEE Transactions on Pattern Analysis and Machine Intelligence (IF=20.6). 2025.
 
-3. ***Jing Tang***, Zeyu Gong*, Bo Tao and Zhouping Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. Knowledge-Based Systems (IF=8.8). 2023.
+3. Shunlei Li^, ***Jing Tang***^, Wen Zhou, Yin Zhang*, Muhammad Adeel Azam, Leonardo S. Mattos. Reliable Multiplex Semi-Local Random Walk Based on Influential Nodes to Improve Link Prediction in Complex Networks. Artificial Intelligence Review (IF=12.0). 2024.
 
-4. ***Jing Tang***^, Decheng Xu^, Qingwei Cai, Shunlei Li*, Amin Rezaeipanah*. Towards a Semi-supervised Ensemble Clustering Framework with Flexible Weighting Mechanism and Constraints Information. Engineering Applications of Artificial Intelligence (IF=7.5). 2024.
+4. ***Jing Tang***, Zeyu Gong*, Bo Tao and Zhouping Yin. Advancing Generalizations of Multi-Scale GAN via Adversarial Perturbation Augmentations. Knowledge-Based Systems (IF=8.8). 2023.
 
-5. ***Jing Tang***, Zeyu Gong*, Bo Tao, Zhouping Yin and Han Ding. Network Convergence Indicator for Efficient Robot Grasping Pose Detection under Limited Computation Resource. IEEE Transactions on Instrumentation and Measurement (IF=5.6). 2024.
+5. ***Jing Tang***^, Decheng Xu^, Qingwei Cai, Shunlei Li*, Amin Rezaeipanah*. Towards a Semi-supervised Ensemble Clustering Framework with Flexible Weighting Mechanism and Constraints Information. Engineering Applications of Artificial Intelligence (IF=7.5). 2024.
 
-6. ***Jing Tang***, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation. IEEE Sensors Journal (IF=4.3). 2021.
+6. ***Jing Tang***, Zeyu Gong*, Bo Tao, Zhouping Yin and Han Ding. Network Convergence Indicator for Efficient Robot Grasping Pose Detection under Limited Computation Resource. IEEE Transactions on Instrumentation and Measurement (IF=5.6). 2024.
 
-7. ***Jing Tang***, Zeyu Gong, Yajun Fan*. High-performance surface defect detection of aluminum substrate based on event camera. Journal of Computational Design and Engineering (IF=4.8). 2024.
+7. ***Jing Tang***, Zeyu Gong*, Haibin Wu and Bo Tao. RFID-Based Pose Estimation for Moving Objects Using Classification and Phase-Position Transformation. IEEE Sensors Journal (IF=4.3). 2021.
 
-8. Weiting Peng^, ***Jing Tang***^, Zeyu Gong*. Remaining Useful Life Prediction of Bearings Using Reverse Attention Graph Convolution Network with Residual Convolution Transformer. IEEE Sensors Journal (IF=4.3). 2024.
+8. ***Jing Tang***, Zeyu Gong, Yajun Fan*. High-performance surface defect detection of aluminum substrate based on event camera. Journal of Computational Design and Engineering (IF=4.8). 2024.
 
-9. ***Jing Tang***^, Ting Zhang^, Zeyu Gong*, Xianjun Huang. High Precision Cervical Precancerous Lesions Classification Method Based on ConvNeXt. Bioengineering (IF=4.6). 2023.
+9. Weiting Peng^, ***Jing Tang***^, Zeyu Gong*. Remaining Useful Life Prediction of Bearings Using Reverse Attention Graph Convolution Network with Residual Convolution Transformer. IEEE Sensors Journal (IF=4.3). 2024.
 
-10. ***Jing Tang***, Qing Xiao, Kunxu Du, Zaiqiao Ye*, RoboLinker: A Diffusion-model-based Matching Clothing Generator Between Humans and Companion Robots, ACM Symposium on User Interface Software and Technology (UIST, CCF-A). 2025.
+10. ***Jing Tang***^, Ting Zhang^, Zeyu Gong*, Xianjun Huang. High Precision Cervical Precancerous Lesions Classification Method Based on ConvNeXt. Bioengineering (IF=4.6). 2023.
 
-11. Hongru Xiao, Xiang Li, Duyi Pan, Longfei Zhang, ZhixueSong, Jiale Han, Songning Lai, Wenshuo Chen, ***Jing Tang***, Benyou Wang*. Can Audio Language Models Listen Between the Lines? A Study on Metaphorical Reasoning via Unspoken. ACM International Conference on Multimedia Brave New Ideas Track (**Oral** in ACMMM, CCF-A). 2025
+11. ***Jing Tang***, Qing Xiao, Kunxu Du, Zaiqiao Ye*, RoboLinker: A Diffusion-model-based Matching Clothing Generator Between Humans and Companion Robots, ACM Symposium on User Interface Software and Technology (UIST, CCF-A). 2025.
 
-12. Zezhou Wang^, ***Jing Tang***^\*, T3V2V: Test Time Training for Domain Adaptation in Video-to-Video Editing,  AI for Creative Visual Content Generation Editing and Understanding Workshop on The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A). 2025.
+12. Hongru Xiao, Xiang Li, Duyi Pan, Longfei Zhang, ZhixueSong, Jiale Han, Songning Lai, Wenshuo Chen, ***Jing Tang***, Benyou Wang*. Can Audio Language Models Listen Between the Lines? A Study on Metaphorical Reasoning via Unspoken. ACM International Conference on Multimedia Brave New Ideas Track (**Oral** in ACMMM, CCF-A). 2025
 
-13. Jiaqi Wu, Simin Chen, ***Jing Tang***, Yuzhe Yang, Yiming Chen, Lixu Wang, Song Lin, Zehua Wang, Wei Chen, Zijian Tian. FDPT: Federated Discrete Prompt Tuning for Black-Box Visual-Language Models. International Conference on Computer Vision (ICCV, CCF-A). 2025.
+13. Zezhou Wang^, ***Jing Tang***^\*, T3V2V: Test Time Training for Domain Adaptation in Video-to-Video Editing,  AI for Creative Visual Content Generation Editing and Understanding Workshop on The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A). 2025.
 
-14. Jing Wang, Weiting Peng, ***Jing Tang***, Zeyu Gong, Xihua Wang, Bo Tao, Li cheng. Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies. The Thirty-ninth Annual Conference on Neural Information Processing Systems (NIPS, CCF-A). 2025.
+14. Jiaqi Wu, Simin Chen, ***Jing Tang***, Yuzhe Yang, Yiming Chen, Lixu Wang, Song Lin, Zehua Wang, Wei Chen, Zijian Tian. FDPT: Federated Discrete Prompt Tuning for Black-Box Visual-Language Models. International Conference on Computer Vision (ICCV, CCF-A). 2025.
 
-15. Houcheng Su^, Weihao Luo^, Daixian Liu, Mengzhu Wang*, ***Jing Tang***, Junyan Cheng, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization.Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A). 2024.
+15. Jing Wang, Weiting Peng, ***Jing Tang***, Zeyu Gong, Xihua Wang, Bo Tao, Li Cheng. Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies. The Thirty-ninth Annual Conference on Neural Information Processing Systems (NIPS, CCF-A). 2025.
 
-16. ***Jing Tang***, Hongru Xiao, Xiang Li, Wei Wang*, and Zeyu Gong. ChatCAD: An MLLM-Guided Framework for Zero-shot CAD Drawing Restoration. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B). 2024.
+16. Houcheng Su^, Weihao Luo^, Daixian Liu, Mengzhu Wang*, ***Jing Tang***, Junyan Cheng, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization.Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A). 2024.
 
-17. Zixuan He^, ***Jing Tang***^, Zitong Zhao, and Zeyu Gong*. RWKVMatch: Vision RWKV-based Multi-scale Feature Matching Network for Unsupervised Deformable Medical Image Registration (ICASSP, CCF-B). 2024.
+17. ***Jing Tang***, Hongru Xiao, Xiang Li, Wei Wang*, and Zeyu Gong. ChatCAD: An MLLM-Guided Framework for Zero-shot CAD Drawing Restoration. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B). 2024.
 
-18. Jialin Xu^, ***Jing Tang***^, Yankai Jin, Jun Liu, and Zeyu Gong*. Rethinking Steel Surface Defect Segmentation with Pseudo Mixup and Self Distillation (ICME, CCF-B). 2025.
+18. Zixuan He^, ***Jing Tang***^, Zitong Zhao, and Zeyu Gong*. RWKVMatch: Vision RWKV-based Multi-scale Feature Matching Network for Unsupervised Deformable Medical Image Registration (ICASSP, CCF-B). 2024.
 
-19. Xiang Li, Hongru Xiao, Jiale Han, ***Jing Tang***, Jiabao Ma, Wei Wang*, Bo Cheng. DialogueAgents: A Hybrid Agent-Based Speech Synthesis Framework for Multi-Party Dialogue (ICME, CCF-B). 2025.
+19. Jialin Xu^, ***Jing Tang***^, Yankai Jin, Jun Liu, and Zeyu Gong*. Rethinking Steel Surface Defect Segmentation with Pseudo Mixup and Self Distillation (ICME, CCF-B). 2025.
 
-20. Pingyu Wu, Daiheng Gao, ***Jing Tang***, Huimin Chen, Wenbo Zhou, Weiming Zhang and Nenghai Yu, MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG, the North American Chapter of the Association for Computational Linguistics Findings (NAACL, CCF-B). 2025.
+20. Xiang Li, Hongru Xiao, Jiale Han, ***Jing Tang***, Jiabao Ma, Wei Wang*, Bo Cheng. DialogueAgents: A Hybrid Agent-Based Speech Synthesis Framework for Multi-Party Dialogue (ICME, CCF-B). 2025.
 
-21. Yafeng Zhang^\*, Zilan Yu^\*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
+21. Pingyu Wu, Daiheng Gao, ***Jing Tang***, Huimin Chen, Wenbo Zhou, Weiming Zhang and Nenghai Yu, MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG, the North American Chapter of the Association for Computational Linguistics Findings (NAACL, CCF-B). 2025.
 
-22. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
+22. Yafeng Zhang^\*, Zilan Yu^\*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
 
-23. Hui Feng, Zhenfeng Gu, Yi Zhou, Chao Chen, Ruiwen Hu, ***Jing Tang***, Zeyu Gong*, and Bo Tao. A Cross-media Localization Method for Amphibious Climbing Robot. International Conference on Intelligent Robotics and Applications (ICIRA, EI). 2024.
+23. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
 
-24. Weiting Peng, ***Jing Tang***, Zeyu Gong*, and Bo Tao. Prediction of Hand Kinematics in Grasping with Mamba-based Graph Convolutional Networks. International Conference on Intelligent Robotics and Applications (**Oral** in ICIRA, EI). 2024.
+24. Hui Feng, Zhenfeng Gu, Yi Zhou, Chao Chen, Ruiwen Hu, ***Jing Tang***, Zeyu Gong*, and Bo Tao. A Cross-media Localization Method for Amphibious Climbing Robot. International Conference on Intelligent Robotics and Applications (ICIRA, EI). 2024.
 
-25. Jun Liu^, ***Jing Tang***^, Yunshu Yang, Xingyu Chen, Ying Shi\*, Zeyu Gong, IndustFlow: MLLMs-Driven Industrial Processes Flowchart Synthesis with Cross-Domain Knowledge Alignment. The 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM, EI). 2025.
+25. Weiting Peng, ***Jing Tang***, Zeyu Gong*, and Bo Tao. Prediction of Hand Kinematics in Grasping with Mamba-based Graph Convolutional Networks. International Conference on Intelligent Robotics and Applications (**Oral** in ICIRA, EI). 2024.
+
+26. Jun Liu^, ***Jing Tang***^, Yunshu Yang, Xingyu Chen, Ying Shi\*, Zeyu Gong, IndustFlow: MLLMs-Driven Industrial Processes Flowchart Synthesis with Cross-Domain Knowledge Alignment. The 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM, EI). 2025.
 
 
 *Corresponding Author；^These authors contributed equally to this work
