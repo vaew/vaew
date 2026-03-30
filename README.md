@@ -140,6 +140,7 @@
 2021 高分辨率遥感影像耕地地块提取挑战赛 排行榜 Rank 5/486 答辩rank10 (SOLO)
 2023 Kaggle RSNA Screening Mammography Breast Cancer Detection 银牌 (46/1687)
 2023 Kaggle Stable Diffusion————Image to Prompts 银牌 (25/1231)
+2025 ICRA————Manipulation Skill Learning with Vision and Tactile Sensing挑战赛（基于视觉与触觉感知的操作技能学习） 三等奖
 </pre></details>
 
 ### <font face="Cambria Math" color=black size=6>Patents</font>
