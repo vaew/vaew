@@ -66,23 +66,25 @@
 
 20. ***Jing Tang***, Hongru Xiao, Xiang Li, Wei Wang*, and Zeyu Gong. ChatCAD: An MLLM-Guided Framework for Zero-shot CAD Drawing Restoration. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B). 2024.
 
-21. Zixuan He^, ***Jing Tang***^, Zitong Zhao, and Zeyu Gong*. RWKVMatch: Vision RWKV-based Multi-scale Feature Matching Network for Unsupervised Deformable Medical Image Registration (ICASSP, CCF-B). 2024.
+21. Jialiang Yuan^, ***Jing Tang***^*,Shuwen Zhu, and Yipeng Yu. ShapePruning: Shape-Aware ESD-Based Pruning via the Marchenko-Pastur Law. (ICME, CCF-B). 2026.
 
-22. Jialin Xu^, ***Jing Tang***^, Yankai Jin, Jun Liu, and Zeyu Gong*. Rethinking Steel Surface Defect Segmentation with Pseudo Mixup and Self Distillation (ICME, CCF-B). 2025.
+22. Zixuan He^, ***Jing Tang***^, Zitong Zhao, and Zeyu Gong*. RWKVMatch: Vision RWKV-based Multi-scale Feature Matching Network for Unsupervised Deformable Medical Image Registration (ICASSP, CCF-B). 2024.
 
-23. Xiang Li, Hongru Xiao, Jiale Han, ***Jing Tang***, Jiabao Ma, Wei Wang*, Bo Cheng. DialogueAgents: A Hybrid Agent-Based Speech Synthesis Framework for Multi-Party Dialogue (ICME, CCF-B). 2025.
+23. Jialin Xu^, ***Jing Tang***^, Yankai Jin, Jun Liu, and Zeyu Gong*. Rethinking Steel Surface Defect Segmentation with Pseudo Mixup and Self Distillation (ICME, CCF-B). 2025.
 
-24. Pingyu Wu, Daiheng Gao, ***Jing Tang***, Huimin Chen, Wenbo Zhou, Weiming Zhang and Nenghai Yu, MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG, the North American Chapter of the Association for Computational Linguistics Findings (NAACL, CCF-B). 2025.
+24. Xiang Li, Hongru Xiao, Jiale Han, ***Jing Tang***, Jiabao Ma, Wei Wang*, Bo Cheng. DialogueAgents: A Hybrid Agent-Based Speech Synthesis Framework for Multi-Party Dialogue (ICME, CCF-B). 2025.
 
-25. Yafeng Zhang^\*, Zilan Yu^\*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
+25. Pingyu Wu, Daiheng Gao, ***Jing Tang***, Huimin Chen, Wenbo Zhou, Weiming Zhang and Nenghai Yu, MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG, the North American Chapter of the Association for Computational Linguistics Findings (NAACL, CCF-B). 2025.
 
-26. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
+26. Yafeng Zhang^\*, Zilan Yu^\*, Yu Ang Huang and ***Jing Tang***. CLLMFS: A Contrastive Learning enhanced Large Language Model Framework for Few-Shot Named Entity Recognition. European Conference on Artifical Intelligence (ECAI, CCF-B). 2024.
 
-27. Hui Feng, Zhenfeng Gu, Yi Zhou, Chao Chen, Ruiwen Hu, ***Jing Tang***, Zeyu Gong*, and Bo Tao. A Cross-media Localization Method for Amphibious Climbing Robot. International Conference on Intelligent Robotics and Applications (ICIRA, EI). 2024.
+27. ***Jing Tang***^, Kaiwen Zuo^, Hanbing Qin, Binli Luo, Ligang He and Shiyan Tang*. Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning. Knowledge-Enhanced Information Retrieval Workshop on European Conference on Information Retrieval (ECIR, CCF-C). 2024.
 
-28. Weiting Peng, ***Jing Tang***, Zeyu Gong*, and Bo Tao. Prediction of Hand Kinematics in Grasping with Mamba-based Graph Convolutional Networks. International Conference on Intelligent Robotics and Applications (**Oral** in ICIRA, EI). 2024.
+28. Hui Feng, Zhenfeng Gu, Yi Zhou, Chao Chen, Ruiwen Hu, ***Jing Tang***, Zeyu Gong*, and Bo Tao. A Cross-media Localization Method for Amphibious Climbing Robot. International Conference on Intelligent Robotics and Applications (ICIRA, EI). 2024.
 
-29. Jun Liu^, ***Jing Tang***^, Yunshu Yang, Xingyu Chen, Ying Shi\*, Zeyu Gong, IndustFlow: MLLMs-Driven Industrial Processes Flowchart Synthesis with Cross-Domain Knowledge Alignment. The 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM, EI). 2025.
+29. Weiting Peng, ***Jing Tang***, Zeyu Gong*, and Bo Tao. Prediction of Hand Kinematics in Grasping with Mamba-based Graph Convolutional Networks. International Conference on Intelligent Robotics and Applications (**Oral** in ICIRA, EI). 2024.
+
+30. Jun Liu^, ***Jing Tang***^, Yunshu Yang, Xingyu Chen, Ying Shi\*, Zeyu Gong, IndustFlow: MLLMs-Driven Industrial Processes Flowchart Synthesis with Cross-Domain Knowledge Alignment. The 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM, EI). 2025.
 
 
 *Corresponding Author；^These authors contributed equally to this work
