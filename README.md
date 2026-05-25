@@ -66,7 +66,7 @@
 
 20. ***Jing Tang***, Hongru Xiao, Xiang Li, Wei Wang*, and Zeyu Gong. ChatCAD: An MLLM-Guided Framework for Zero-shot CAD Drawing Restoration. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B). 2024.
 
-21. Jialiang Yuan^, ***Jing Tang***^*,Shuwen Zhu, and Yipeng Yu. ShapePruning: Shape-Aware ESD-Based Pruning via the Marchenko-Pastur Law. (ICME, CCF-B). 2026.
+21. Jialiang Yuan^, ***Jing Tang***^*,Shuwen Zhu, and Yipeng Yu. ShapePruning: Shape-Aware ESD-Based Pruning via the Marchenko-Pastur Law. (**Spotlight** in ICME, CCF-B). 2026.
 
 22. Zixuan He^, ***Jing Tang***^, Zitong Zhao, and Zeyu Gong*. RWKVMatch: Vision RWKV-based Multi-scale Feature Matching Network for Unsupervised Deformable Medical Image Registration (ICASSP, CCF-B). 2024.
 
