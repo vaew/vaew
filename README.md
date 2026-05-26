@@ -50,7 +50,7 @@
 
 12. ***Jing Tang***, Qing Xiao, Kunxu Du, Zaiqiao Ye*, RoboLinker: A Diffusion-model-based Matching Clothing Generator Between Humans and Companion Robots, ACM Symposium on User Interface Software and Technology (UIST, CCF-A). 2025.
 
-13. Heng Zhou^, ***Jing Tang***^, Jusheng Zhang, Yanshu Li, Canran Xiao, Liwei Hou, Zong Ke, Jiawei Yao. CoMem: Compositional Concept-Graph Memory for Continual Vision–Language Learning (ICLR). 2026. 
+13. Heng Zhou^, ***Jing Tang***^, Jusheng Zhang, Yanshu Li, Canran Xiao, Liwei Hou, Zong Ke, Jiawei Yao. CoMem: Compositional Concept-Graph Memory for Continual Vision–Language Learning (ICLR, CCF-A). 2026. 
 
 14. Hongru Xiao, Xiang Li, Duyi Pan, Longfei Zhang, ZhixueSong, Jiale Han, Songning Lai, Wenshuo Chen, ***Jing Tang***, Benyou Wang*. Can Audio Language Models Listen Between the Lines? A Study on Metaphorical Reasoning via Unspoken. ACM International Conference on Multimedia Brave New Ideas Track (**Oral** in ACMMM, CCF-A). 2025
 
@@ -62,7 +62,7 @@
 
 18. Houcheng Su^, Weihao Luo^, Daixian Liu, Mengzhu Wang*, ***Jing Tang***, Junyan Cheng, Cong Wang, Zhenghan Chen. Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization.Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A). 2024.
 
-19. Canran Xiao, Liaoyuan Fan, Yanbin Li, ***Jing Tang***, Peilai Yu. Path Matters: Unveiling Geometric Implicit Bias via Curvature-Aware Sparse View Optimization (ICLR). 2026. 
+19. Canran Xiao, Liaoyuan Fan, Yanbin Li, ***Jing Tang***, Peilai Yu. Path Matters: Unveiling Geometric Implicit Bias via Curvature-Aware Sparse View Optimization (ICLR, CCF-A). 2026. 
 
 20. ***Jing Tang***, Hongru Xiao, Xiang Li, Wei Wang*, and Zeyu Gong. ChatCAD: An MLLM-Guided Framework for Zero-shot CAD Drawing Restoration. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B). 2024.
 
