@@ -52,7 +52,7 @@
 
 13. Heng Zhou^, ***Jing Tang***^, Jusheng Zhang, Yanshu Li, Canran Xiao, Liwei Hou, Zong Ke, Jiawei Yao. CoMem: Compositional Concept-Graph Memory for Continual Vision–Language Learning (ICLR, CCF-A). 2026. 
 
-14. Hongru Xiao, Xiang Li, Duyi Pan, Longfei Zhang, ZhixueSong, Jiale Han, Songning Lai, Wenshuo Chen, ***Jing Tang***, Benyou Wang*. Can Audio Language Models Listen Between the Lines? A Study on Metaphorical Reasoning via Unspoken. ACM International Conference on Multimedia Brave New Ideas Track (**Oral** in ACMMM, CCF-A). 2025
+14. Hongru Xiao, Xiang Li, Duyi Pan, Longfei Zhang, ZhixueSong, Jiale Han, Songning Lai, Wenshuo Chen, ***Jing Tang***, Benyou Wang*. Can Audio Language Models Listen Between the Lines? A Study on Metaphorical Reasoning via Unspoken. ACM International Conference on Multimedia Brave New Ideas Track (**Outstanding** in ACMMM, CCF-A). 2025
 
 15. Zezhou Wang^, ***Jing Tang***^\*, T3V2V: Test Time Training for Domain Adaptation in Video-to-Video Editing,  AI for Creative Visual Content Generation Editing and Understanding Workshop on The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A). 2025.
 
